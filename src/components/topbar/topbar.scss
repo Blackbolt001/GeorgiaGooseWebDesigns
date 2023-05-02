@@ -1,0 +1,14 @@
+ .topbar  {
+    width: 100%;
+    height: 10vh;
+    background-image: url("../../assets/images/emptyRoad.jpg");
+    color:white;
+    display: flex;
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-size: xx-large;
+
+    justify-content: center;
+}

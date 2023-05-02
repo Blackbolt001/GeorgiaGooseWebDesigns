@@ -1,0 +1,15 @@
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    width: 100%;
+    background-image: url("../../assets/images/yellowCar.jpg");
+    background-size: contain;
+    background-position: center;
+    color:lightgreen;
+    text-align: center;
+    font-size: xx-large;
+background-repeat: no-repeat;
+background-size: cover;
+    justify-content: center;
+}
