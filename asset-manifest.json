@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GeorgiaGooseWebDesigns/static/css/main.aa2a3252.css",
-    "main.js": "/GeorgiaGooseWebDesigns/static/js/main.a507539b.js",
+    "main.css": "/GeorgiaGooseWebDesigns/static/css/main.f5323baf.css",
+    "main.js": "/GeorgiaGooseWebDesigns/static/js/main.95c3b9b3.js",
     "static/media/harper.png": "/GeorgiaGooseWebDesigns/static/media/harper.adc2f722c19339ad35f9.png",
     "static/media/roseImage.jpg": "/GeorgiaGooseWebDesigns/static/media/roseImage.2bfc0b3130f443cd92ca.jpg",
     "static/media/firepitImage.jpg": "/GeorgiaGooseWebDesigns/static/media/firepitImage.495b4e38416c44042cde.jpg",
@@ -10,11 +10,11 @@
     "static/media/carInFall.jpg": "/GeorgiaGooseWebDesigns/static/media/carInFall.7c6ef60c69e0fd414b1e.jpg",
     "static/media/yellowCar.jpg": "/GeorgiaGooseWebDesigns/static/media/yellowCar.67775c51f56af6eaef7c.jpg",
     "index.html": "/GeorgiaGooseWebDesigns/index.html",
-    "main.aa2a3252.css.map": "/GeorgiaGooseWebDesigns/static/css/main.aa2a3252.css.map",
-    "main.a507539b.js.map": "/GeorgiaGooseWebDesigns/static/js/main.a507539b.js.map"
+    "main.f5323baf.css.map": "/GeorgiaGooseWebDesigns/static/css/main.f5323baf.css.map",
+    "main.95c3b9b3.js.map": "/GeorgiaGooseWebDesigns/static/js/main.95c3b9b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa2a3252.css",
-    "static/js/main.a507539b.js"
+    "static/css/main.f5323baf.css",
+    "static/js/main.95c3b9b3.js"
   ]
 }
