@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GeorgiaGooseWebDesigns/static/css/main.abd64e84.css",
-    "main.js": "/GeorgiaGooseWebDesigns/static/js/main.9ad5d999.js",
-    "index.html": "/GeorgiaGooseWebDesigns/index.html",
-    "main.abd64e84.css.map": "/GeorgiaGooseWebDesigns/static/css/main.abd64e84.css.map",
-    "main.9ad5d999.js.map": "/GeorgiaGooseWebDesigns/static/js/main.9ad5d999.js.map"
+    "main.css": "/static/css/main.abd64e84.css",
+    "main.js": "/static/js/main.15340679.js",
+    "index.html": "/index.html",
+    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
+    "main.15340679.js.map": "/static/js/main.15340679.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.9ad5d999.js"
+    "static/js/main.15340679.js"
   ]
 }
