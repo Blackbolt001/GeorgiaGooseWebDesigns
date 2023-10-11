@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/GeorgiaGooseWebDesigns/static/css/main.f5323baf.css",
-    "main.js": "/GeorgiaGooseWebDesigns/static/js/main.95c3b9b3.js",
-    "static/media/harper.png": "/GeorgiaGooseWebDesigns/static/media/harper.adc2f722c19339ad35f9.png",
-    "static/media/roseImage.jpg": "/GeorgiaGooseWebDesigns/static/media/roseImage.2bfc0b3130f443cd92ca.jpg",
-    "static/media/firepitImage.jpg": "/GeorgiaGooseWebDesigns/static/media/firepitImage.495b4e38416c44042cde.jpg",
-    "static/media/gooseFlyingImage.jpg": "/GeorgiaGooseWebDesigns/static/media/gooseFlyingImage.57a6674c4ccb3e352950.jpg",
-    "static/media/emptyRoad.jpg": "/GeorgiaGooseWebDesigns/static/media/emptyRoad.1a0939b4c14426cf9699.jpg",
-    "static/media/carInFall.jpg": "/GeorgiaGooseWebDesigns/static/media/carInFall.7c6ef60c69e0fd414b1e.jpg",
-    "static/media/yellowCar.jpg": "/GeorgiaGooseWebDesigns/static/media/yellowCar.67775c51f56af6eaef7c.jpg",
+    "main.css": "/GeorgiaGooseWebDesigns/static/css/main.abd64e84.css",
+    "main.js": "/GeorgiaGooseWebDesigns/static/js/main.684fcddc.js",
     "index.html": "/GeorgiaGooseWebDesigns/index.html",
-    "main.f5323baf.css.map": "/GeorgiaGooseWebDesigns/static/css/main.f5323baf.css.map",
-    "main.95c3b9b3.js.map": "/GeorgiaGooseWebDesigns/static/js/main.95c3b9b3.js.map"
+    "main.abd64e84.css.map": "/GeorgiaGooseWebDesigns/static/css/main.abd64e84.css.map",
+    "main.684fcddc.js.map": "/GeorgiaGooseWebDesigns/static/js/main.684fcddc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5323baf.css",
-    "static/js/main.95c3b9b3.js"
+    "static/css/main.abd64e84.css",
+    "static/js/main.684fcddc.js"
   ]
 }
